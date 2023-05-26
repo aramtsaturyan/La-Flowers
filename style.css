@@ -1,0 +1,17 @@
+.menu-basic{
+    width: 75%;
+    height: 250px;
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.menu-div{
+    width: 19%;
+    height: 190px;
+    border: solid;
+    display: flex;
+    flex-direction: column;
+}
